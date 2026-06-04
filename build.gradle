@@ -1,0 +1,23 @@
+plugins {
+    id 'java'
+}
+
+group = 'com.yeon-seong'
+version = '0.0.1-SNAPSHOT'
+
+jar {
+    archiveBaseName = 'winter'
+    archiveVersion = '0.0.1'
+}
+
+java {
+    toolchain {
+        languageVersion = JavaLanguageVersion.of(25)
+    }
+}
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {}
