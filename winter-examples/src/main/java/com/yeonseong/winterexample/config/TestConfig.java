@@ -1,4 +1,4 @@
-package com.yeonseong.test.config;
+package com.yeonseong.winterexample.config;
 
 import com.yeonseong.winter.annotation.Container;
 

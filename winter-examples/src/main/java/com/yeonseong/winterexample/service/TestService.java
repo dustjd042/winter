@@ -1,7 +1,7 @@
-package com.yeonseong.test.service;
+package com.yeonseong.winterexample.service;
 
-import com.yeonseong.test.model.FireModel;
-import com.yeonseong.test.model.TestModel;
+import com.yeonseong.winterexample.model.FireModel;
+import com.yeonseong.winterexample.model.TestModel;
 import com.yeonseong.winter.annotation.Container;
 import com.yeonseong.winter.annotation.Load;
 

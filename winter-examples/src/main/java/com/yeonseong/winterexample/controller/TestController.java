@@ -1,6 +1,6 @@
-package com.yeonseong.test.controller;
+package com.yeonseong.winterexample.controller;
 
-import com.yeonseong.test.service.TestService;
+import com.yeonseong.winterexample.service.TestService;
 import com.yeonseong.winter.annotation.Container;
 import com.yeonseong.winter.annotation.Load;
 

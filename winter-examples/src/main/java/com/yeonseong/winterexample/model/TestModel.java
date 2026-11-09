@@ -1,4 +1,4 @@
-package com.yeonseong.test.model;
+package com.yeonseong.winterexample.model;
 
 import com.yeonseong.winter.annotation.Container;
 import com.yeonseong.winter.annotation.Load;

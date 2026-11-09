@@ -1,3 +1,4 @@
 rootProject.name = 'winter'
-include 'test'
-
+include 'winter'
+include 'winter-examples'
+include 'spring'
